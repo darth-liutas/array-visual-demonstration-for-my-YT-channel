@@ -1,0 +1,158 @@
+.Array-page-style{
+	width:100vw;
+	height:100vh;
+	background-color:#202225;
+	color:white;
+}
+.Array-container{
+	padding-top:10rem;
+	display:flex;
+	align-items:center;
+	justify-content:center;
+	margin:auto;
+	max-width:100%;
+}
+.Array-indices{
+	padding-top:1rem;
+	margin:auto;
+	max-width:100%;
+	display:flex;
+	align-items:center;
+	justify-content:center;
+}
+.Array-indices p{
+	width:5.4rem;
+	font-size:1.5rem;
+	text-align:center;
+	border:1px solid white;
+}
+.Array-box-elem{
+	border:4px solid #1D9CD5;
+	display:flex;
+	align-items:center;
+	justify-content: center;
+	width:5rem;
+	height:5rem;
+	margin:0.5px;
+	font-size:1.5rem;
+}
+.Print-box{
+	margin:auto;
+	margin-top:3rem;
+	width:50rem;
+	height:10rem;
+	display:flex;
+	align-items:center;
+	justify-content:center;
+	flex-direction:column;
+}
+.Print-box p{
+font-size:1.85rem;
+border:3px solid white;
+border-bottom:none;
+max-width:50rem;
+min-width:5.9rem;
+text-align:center;
+}
+.Print-box button{
+	color:white;
+	font-size:2rem;
+	padding:1rem 1rem 1rem 1rem;
+	border:3px solid white;
+    background-color:#202225;
+
+}
+.Index-box{
+height:4rem;
+display:flex;
+align-items:center;
+margin:auto;
+width:15rem;
+}
+.Index-box button{
+background-color:transparent;
+border:3px solid white;
+height:100%;
+width:4rem;
+cursor:pointer;
+
+font-size:2rem;
+color:white;
+}
+.Index-box input{
+	width:7rem;
+	border:3px solid white;
+	color:white;
+	background-color:transparent;
+	height:90%;
+	text-align:center;
+	outline:none;
+	font-size:2rem;
+}
+
+
+.Array-Input-box{
+height:4rem;
+display:flex;
+align-items:center;
+margin:auto;
+width:15rem;
+}
+.Array-Input-box button{
+background-color:transparent;
+border:3px solid white;
+height:100%;
+cursor:pointer;
+font-size:2rem;
+color:white;
+
+}
+.Array-Input-box input{
+	width:8.45rem;
+	border:3px solid white;
+	color:white;
+	background-color:transparent;
+	height:90%;
+	text-align:center;
+	outline:none;
+	font-size:2rem;
+}
+.Array-Input-box p{
+    width:20rem;
+	border:3px solid white;
+	color:white;
+	background-color:transparent;
+	height:90%;
+	outline:none;
+	font-size:2rem;
+	display:flex;
+	justify-content:center;
+	align-items: center;
+}
+
+.Change-size-box{
+height:4rem;
+display:flex;
+align-items:center;
+margin:auto;
+width:15rem;
+}
+.Change-size-box button{
+background-color:transparent;
+border:3px solid white;
+height:100%;
+cursor:pointer;
+font-size:1.5rem;
+color:white;
+
+}
+.Change-size-box input{
+background-color:transparent;
+border:3px solid white;
+height:90%;
+width:77%;
+font-size:1.5rem;
+color:white;
+outline:none;
+text-align:center;
+}
